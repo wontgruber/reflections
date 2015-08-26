@@ -3,3 +3,6 @@ A .git folder is created. Git starts treating it like a repository and tracks ch
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The repository is in the cloud, right? The working directory is on my harddrive and the staging area is space on my harddrive where things are placed when they are heading to the repository. Ugh.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I don't really know what this question is asking... By staging small changes until they add up to one logical change?
