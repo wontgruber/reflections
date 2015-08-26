@@ -6,3 +6,12 @@ The repository is in the cloud, right? The working directory is on my harddrive 
 
 How can you use the staging area to make sure you have one commit per logical change?
 I don't really know what this question is asking... By staging small changes until they add up to one logical change?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When working on exploratory/experimental projects. By not directy changing the main branch, collaborators wont be distracted by the wonky changes.
+
+How do the diagrams help you visualize the branch structure?
+I dig the one-way arrows. They were particularly helpful for visualizing unreachable branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is an updated main branch (master) with whatever added feature/fix was being worked on. Because the two branches are coming together.
