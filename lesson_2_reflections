@@ -15,3 +15,7 @@ I dig the one-way arrows. They were particularly helpful for visualizing unreach
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is an updated main branch (master) with whatever added feature/fix was being worked on. Because the two branches are coming together.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: Makes is super easy when there are no conflicts. 
+Cons: Maybe there are instances where it misses conflicts? 
